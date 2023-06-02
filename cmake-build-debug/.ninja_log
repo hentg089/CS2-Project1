@@ -1,0 +1,15 @@
+# ninja log v5
+681	2950	6960394315665497	CMakeFiles/project1.dir/SequenceClass.cpp.obj	afaa0f81661ef99d
+3	468	6960398390996224	CMakeFiles/project1.dir/main.cpp.obj	f5fa51a9ec73cd0a
+469	614	6960398392556379	project1.exe	7b999821e3247354
+21	934	6962938591428298	CMakeFiles/project1.dir/SequenceClass.cpp.obj	afaa0f81661ef99d
+4	937	6962938591428298	CMakeFiles/project1.dir/main.cpp.obj	f5fa51a9ec73cd0a
+937	2000	6962938602011956	project1.exe	7b999821e3247354
+6	1162	6962992578147224	CMakeFiles/project1.dir/main.cpp.obj	f5fa51a9ec73cd0a
+106	1178	6962992578320161	CMakeFiles/project1.dir/SequenceClass.cpp.obj	afaa0f81661ef99d
+1179	2022	6962992586538760	project1.exe	7b999821e3247354
+4	871	6962993379560085	CMakeFiles/project1.dir/SequenceClass.cpp.obj	afaa0f81661ef99d
+872	1291	6962993383703045	project1.exe	7b999821e3247354
+10	555	6963968551127410	CMakeFiles/project1.dir/SequenceClass.cpp.obj	afaa0f81661ef99d
+3	1477	6963968560313690	CMakeFiles/project1.dir/main.cpp.obj	f5fa51a9ec73cd0a
+1477	2110	6963968566612866	project1.exe	7b999821e3247354
